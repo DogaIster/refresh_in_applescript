@@ -5,4 +5,4 @@ I wrote this script to reload a page in every 10 minutes.
 
 This is a bash script with .applescript extension that contains applescript code in it. <br/>
 Enter the required part on line 4 (e.g. "google.ca"). <br/>
-On Mac I run it using the command . refresh.applescript
+On Mac I run it on the terminal using the command . refresh.applescript
